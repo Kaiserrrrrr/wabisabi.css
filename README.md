@@ -1,4 +1,4 @@
-# wabisabi.css: The Beauty of Imperfect Simplicity
+# wabisabi.css: The Beauty of Simplicity
 
 **wabisabi.css** is more than just a stylesheet; it's a digital ode to the Japanese aesthetic philosophy of Wabi-Sabi—finding beauty in humble simplicity.
 
