@@ -1,6 +1,6 @@
 # wabisabi.css: The Beauty of Imperfect Simplicity
 
-**wabisabi.css** is more than just a stylesheet; it's a digital ode to the Japanese aesthetic philosophy of Wabi-Sabi—finding beauty in imperfection, transience, and humble simplicity.
+**wabisabi.css** is more than just a stylesheet; it's a digital ode to the Japanese aesthetic philosophy of Wabi-Sabi—finding beauty in humble simplicity.
 
 Inspired by this profound concept, this lightweight, **monochrome CSS library** embraces the raw, unadorned elegance of native HTML. We believe true beauty emerges when there's nothing left to take away.
 
