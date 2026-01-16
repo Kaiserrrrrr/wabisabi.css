@@ -10,7 +10,7 @@ Inspired by this profound concept, this lightweight, **monochrome CSS library** 
 * **Monochrome Serenity:** A high-contrast, black-and-white palette evokes the stark yet calming presence of old terminal interfaces, focusing attention on content rather than distraction.
 * **Grayscale Harmony:** All images are automatically rendered in grayscale, unifying visuals and preventing vibrant colors from disrupting the tranquil, minimalist aesthetic.
 * **Harmonious Adaptability (Light/Dark Mode):** Embracing the natural flow, the theme intelligently adjusts its monochrome palette to light or dark mode based on the user's system preferences, providing a comfortable and respectful viewing experience.
-* **Humble Utility:** It provides a foundational, opinionated design that’s incredibly lightweight and efficient **(~5kb)**, encouraging thoughtful use of semantic HTML elements as they are.
+* **Humble Utility:** It provides a foundational, opinionated design that’s incredibly lightweight and efficient **(<10kb)**, encouraging thoughtful use of semantic HTML elements as they are.
 
 wabisabi.css invites you to rediscover the inherent beauty in functional, unembellished web design. It's a testament to the idea that simplicity isn't a lack of something, but the perfect amount of everything.
 
